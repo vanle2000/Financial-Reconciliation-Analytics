@@ -25,4 +25,5 @@ Moreover, static rules may not adapt well to new transaction patterns or excepti
 
 # Citation:
 [1] https://www.adyen.com/knowledge-hub/financial-reconciliation
+
 [2] https://www.ledge.co/content/ai-reconciliation#:~:text=AI%20models%20are%20now%20sophisticated,match%20structured%20records%201:1.
